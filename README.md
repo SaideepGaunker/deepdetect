@@ -46,3 +46,4 @@ This project utilizes TensorFlow and Keras for deep learning. The dataset is sou
 Datasets used:
   1.https://www.kaggle.com/datasets/sanikatiwarekar/deep-fake-detection-dfd-entire-original-dataset/data
 
+My trained model:https://drive.google.com/file/d/1-1pIXHk7pISX4LjYuVdKRpxXI2UDmFfu/view?usp=drive_link
