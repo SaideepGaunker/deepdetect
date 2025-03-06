@@ -29,10 +29,12 @@ The CNN model follows a structured architecture with multiple convolutional laye
 
 🏋️‍♂️ **Training:**
 The model is trained using:
+
 1. Epochs: 10 (Early stopping if validation loss does not improve for 30 consecutive epochs) For higher accuracy train the model at least for 1000 epochs.
 2. Callbacks: Checkpointing to save the best model, early stopping to prevent overfitting.
 
 🚀 **Results:**
+
 1.Evaluation: Accuracy and loss metrics are used to assess model performance.
 2. Testing: The best model is evaluated on a separate test dataset.
 
