@@ -35,7 +35,7 @@ The model is trained using:
 
 🚀 **Results:**
 
-1.Evaluation: Accuracy and loss metrics are used to assess model performance.
+1. Evaluation: Accuracy and loss metrics are used to assess model performance.
 2. Testing: The best model is evaluated on a separate test dataset.
 
 🔧 **Usage:**
